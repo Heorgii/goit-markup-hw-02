@@ -28,10 +28,9 @@ ul{
 
 .lihk{
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 16px;
     letter-spacing: 0.02em;
     color: #212121;
 }
@@ -41,8 +40,7 @@ a{
 }
 
 .link:hover{
-    color: #2196F3;
-   
+    color: #2196F3; 
 }
 
 /* .link-2:hover{
